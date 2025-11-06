@@ -1,2 +1,2 @@
-# esp32-firmware
+# esp32_firmware
 For OTA update test
